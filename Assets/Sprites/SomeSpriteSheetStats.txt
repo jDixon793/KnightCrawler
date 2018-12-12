@@ -1,0 +1,9 @@
+//Custom Pivots for links attacks
+Down
+X = .5 Y = .75
+Left
+X = .75 Y = .5
+Up
+X = .5 Y = .25
+Right
+X = .25 Y = .5

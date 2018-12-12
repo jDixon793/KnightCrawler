@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: bfbff6ac8dd13474cb091246a985186a
+timeCreated: 1490880202
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wave_Right_4
+    21300002: Wave_Right_3
+    21300004: Wave_Right_2
+    21300006: Wave_Right_1
+    21300008: Wave_Left_4
+    21300010: Wave_Left_3
+    21300012: Wave_Left_2
+    21300014: Wave_Left_1
+    21300016: Wave_Up_4
+    21300018: Wave_Up_3
+    21300020: Wave_Up_2
+    21300022: Wave_Up_1
+    21300024: Wave_Down_2
+    21300026: Wave_Down_1
+    21300028: Wave_Down_4
+    21300030: Wave_Down_3
+    21300032: ExtraSprites_0
+    21300034: ExtraSprites_1
+    21300036: ExtraSprites_2
+    21300038: ExtraSprites_3
+    21300040: ExtraSprites_4
+    21300042: GreenLink_AttackBlue_Down
+    21300044: GreenLink_AttackBlue_Up
+    21300046: ExtraSprites_7
+    21300048: GreenLink_AttackBlue_Left
+    21300050: GreenLink_AttackBlue_Right
+    21300052: GreenLink_AttackRed_Down
+    21300054: GreenLink_AttackRed_Left
+    21300056: GreenLink_AttackRed_Up
+    21300058: GreenLink_AttackRed_Right
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wave_Right_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 272
+        width: 16
+        height: 16
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wave_Right_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 273
+        width: 11
+        height: 14
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wave_Right_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 274
+        width: 7
+        height: 12
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wave_Right_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 275
+        width: 4
+        height: 10
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wave_Left_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 243
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wave_Left_3
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 244
+        width: 11
+        height: 14
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wave_Left_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 245
+        width: 7
+        height: 12
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wave_Left_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 246
+        width: 4
+        height: 10
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wave_Up_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 214
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wave_Up_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 217
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wave_Up_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 219
+        width: 12
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wave_Up_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 221
+        width: 10
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wave_Down_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 196
+        width: 12
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wave_Down_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 199
+        width: 10
+        height: 4
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wave_Down_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 187
+        width: 16
+        height: 16
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wave_Down_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 192
+        width: 14
+        height: 11
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ExtraSprites_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 151
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ExtraSprites_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 151
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ExtraSprites_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ExtraSprites_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 151
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ExtraSprites_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 159
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenLink_AttackBlue_Down
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 104
+        width: 16
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenLink_AttackBlue_Up
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 103
+        width: 16
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ExtraSprites_7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 129
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenLink_AttackBlue_Left
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 110
+        width: 27
+        height: 15
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenLink_AttackBlue_Right
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 110
+        width: 27
+        height: 15
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenLink_AttackRed_Down
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 63
+        width: 16
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenLink_AttackRed_Left
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 69
+        width: 27
+        height: 15
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenLink_AttackRed_Up
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 62
+        width: 16
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenLink_AttackRed_Right
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 69
+        width: 27
+        height: 15
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

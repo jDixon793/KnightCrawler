@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 99b7987113eaf87478c7d873f4773c02
+timeCreated: 1490912072
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - arrow: {fileID: 1996300509578662, guid: 6cd5da9ea596fc24689aed52dbc7c84e, type: 2}
+  - wave: {fileID: 1930457072606020, guid: 3aaab850e6d67054081428b5c0b49530, type: 2}
+  - downSwing: {instanceID: 0}
+  - leftSwing: {instanceID: 0}
+  - rightSwing: {instanceID: 0}
+  - upSwing: {instanceID: 0}
+  - jewelText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
