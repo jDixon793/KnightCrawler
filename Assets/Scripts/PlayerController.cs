@@ -252,9 +252,9 @@ public class PlayerController : MonoBehaviour {
 
     void UpdateLifeGage()
     {
-        if(hearts[lastIndex]!=null)
+        if(lastIndex>=0&&lastIndex<=20&&hearts[lastIndex]!=null)
         {
-            hearts[lastIndex].GetComponent<Image>().fillAmount = 1f;
+            //hearts[lastIndex].GetComponent<Image>().fillAmount = 1f;
         }
         for (int i = 1; i * 4 < health; i++)
         {
@@ -274,12 +274,13 @@ public class PlayerController : MonoBehaviour {
                 }
             }
         }
-        if (health % 4 != 0)
+        if (health % 4 != 0 && (health / 4 - 1>=0))
         {
-            hearts[health / 4 - 1].GetComponent<Image>().fillAmount = .25f * (health % 4);
+                hearts[health / 4 - 1].GetComponent<Image>().fillAmount = .25f * (health % 4);
         }
         lastIndex = health / 4 - 1;
     }
+
     void TakeDamage(int amount)
     {
         health -= amount;
